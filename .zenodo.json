@@ -1,0 +1,14 @@
+{
+  "title": "PiLens: dimensionless analysis of climate-related migration",
+  "upload_type": "software",
+  "description": "Code and analysis protocol for two manuscripts on non-dimensional (Buckingham Pi) analysis of climate-related migration: data download from public sources, Pi group construction, pre-registered tests, clustering, power laws, reference tests, forecasts, and all figures and tables.",
+  "creators": [
+    {"name": "Purwar, Tanya", "affiliation": "Purdue University"},
+    {"name": "Shah, Rushabh", "affiliation": "Arizona State University"},
+    {"name": "Khatib, Maissa", "affiliation": "Arizona State University"},
+    {"name": "Shakelly, Neha", "affiliation": "Purdue University"},
+    {"name": "Castillo, Luciano", "affiliation": "Purdue University"}
+  ],
+  "license": "MIT",
+  "keywords": ["climate migration", "dimensional analysis", "Buckingham Pi", "displacement", "refugees"]
+}
